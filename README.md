@@ -1,4 +1,4 @@
-# Exploratory Data Analysis - Automobile![enter image description here](https://github.com/ankesh-verma/EDA-Automobile-Data/blob/main/image/HeadImage.jpg?raw=true)
+# Exploratory Data Analysis - Automobile<br>![enter image description here](https://github.com/ankesh-verma/EDA-Automobile-Data/blob/main/image/HeadImage.jpg?raw=true)
 > This project visualizes various features and configuration of vehicles, of different brands, which have impact on the price of vehicle.
 
 #### <u>Objective</u>
@@ -17,10 +17,10 @@
 <hr>
 
 ### <u>About Automobile Dataset</u>
-![enter image description here](https://github.com/ankesh-verma/EDA-Automobile-Data/blob/main/image/DataSet.PNG?raw=true)
+![enter image description here](https://github.com/ankesh-verma/EDA-Automobile-Data/blob/main/image/DataSet.PNG?raw=true)<br>
  This automobile dataset consist of data From 1985 Ward's Automotive Yearbook.
 <u>**Data Volume**</u>     
-![enter image description here](https://github.com/ankesh-verma/EDA-Automobile-Data/blob/main/image/rows_cols.PNG?raw=true)
+![enter image description here](https://github.com/ankesh-verma/EDA-Automobile-Data/blob/main/image/rows_cols.PNG?raw=true)<br>
             205 records (rows), 24 variables (columns)
             
  **<u>Attribute Information</u>**
