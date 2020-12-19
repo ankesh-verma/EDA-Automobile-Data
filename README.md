@@ -21,7 +21,7 @@
 <br>This automobile dataset consist of data From 1985 Ward's Automotive Yearbook.
 <u>**Data Volume**</u>     
 ![enter image description here](https://github.com/ankesh-verma/EDA-Automobile-Data/blob/main/image/rows_cols.PNG?raw=true)
-            205 records (rows), 24 variables (columns)
+ <br> 205 records (rows), 24 variables (columns)
             
  **<u>Attribute Information</u>**
  > * In our Analysis we have used below attributes from dataset
