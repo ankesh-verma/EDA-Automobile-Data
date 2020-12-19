@@ -55,5 +55,5 @@ Below **Regplot** shows that there is a **positive correlation between Price of 
 
 ![enter image description here](https://github.com/ankesh-verma/EDA-Automobile-Data/blob/main/image/make_VS_Price.png?raw=true)
 
-> For Detail Document [Click Here](https://github.com/ankesh-verma/EDA-Automobile-Data/tree/main/PDF)
+> For Detail Document [Click Here](https://github.com/ankesh-verma/EDA-Automobile-Data/tree/main/PDF)<br>
 > For Notebook [Click Here](https://github.com/ankesh-verma/EDA-Automobile-Data/blob/main/ipnb/AutomobileEDA.ipynb)
