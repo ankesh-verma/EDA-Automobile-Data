@@ -24,3 +24,7 @@
             205 records (rows), 24 variables (columns)
             
  **<u>Attribute Information</u>**
+ > * In our Analysis we have used below attributes from dataset
+ > 
+![Attributes used for EDA](https://github.com/ankesh-verma/EDA-Automobile-Data/blob/main/image/attribute_info.PNG?raw=true)
+
